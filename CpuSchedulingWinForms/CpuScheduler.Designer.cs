@@ -63,6 +63,8 @@
             this.pictureBoxCodeOutput = new System.Windows.Forms.PictureBox();
             this.btnBarcode = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.SRTF = new System.Windows.Forms.Button();
+            this.MLFQ = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tabSelection.SuspendLayout();
@@ -313,6 +315,8 @@
             this.cpuSchedulerTab.BackColor = System.Drawing.SystemColors.InactiveBorder;
             this.cpuSchedulerTab.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("cpuSchedulerTab.BackgroundImage")));
             this.cpuSchedulerTab.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.cpuSchedulerTab.Controls.Add(this.MLFQ);
+            this.cpuSchedulerTab.Controls.Add(this.SRTF);
             this.cpuSchedulerTab.Controls.Add(this.btnRoundRobin);
             this.cpuSchedulerTab.Controls.Add(this.restartApp);
             this.cpuSchedulerTab.Controls.Add(this.btnPriority);
@@ -482,14 +486,6 @@
             // 
             // txtCodeInput
             // 
-            this.txtCodeInput.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCodeInput.Location = new System.Drawing.Point(109, 310);
-            this.txtCodeInput.Multiline = true;
-            this.txtCodeInput.Name = "txtCodeInput";
-            this.txtCodeInput.Size = new System.Drawing.Size(369, 28);
-            this.txtCodeInput.TabIndex = 2;
-            this.txtCodeInput.Text = "Enter text to be generated as code";
-            this.txtCodeInput.Click += new System.EventHandler(this.txtCodeInput_Click);
             // 
             // pictureBoxCodeOutput
             // 
@@ -520,6 +516,26 @@
             // timer1
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // SRTF
+            // 
+            this.SRTF.Location = new System.Drawing.Point(16, 344);
+            this.SRTF.Name = "SRTF";
+            this.SRTF.Size = new System.Drawing.Size(84, 45);
+            this.SRTF.TabIndex = 13;
+            this.SRTF.Text = "SRTF";
+            this.SRTF.UseVisualStyleBackColor = true;
+            this.SRTF.Click += new System.EventHandler(this.btnSRTF_Click);
+            // 
+            // MLFQ
+            // 
+            this.MLFQ.Location = new System.Drawing.Point(115, 344);
+            this.MLFQ.Name = "MLFQ";
+            this.MLFQ.Size = new System.Drawing.Size(84, 45);
+            this.MLFQ.TabIndex = 14;
+            this.MLFQ.Text = "MLFQ";
+            this.MLFQ.UseVisualStyleBackColor = true;
+            this.MLFQ.Click += new System.EventHandler(this.btnMLFQ_Click);
             // 
             // CpuScheduler
             // 
@@ -587,5 +603,7 @@
         private System.Windows.Forms.Button btnRoundRobin;
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button SRTF;
+        private System.Windows.Forms.Button MLFQ;
     }
 }

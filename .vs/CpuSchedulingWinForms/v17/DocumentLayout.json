@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|c:\\users\\billy\\source\\repos\\l0rdiummm\\cpu-simulator-gui\\cpuschedulingwinforms\\algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\cpuschedulingwinforms\\cpuscheduler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\cpuscheduler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\cpuschedulingwinforms\\cpuscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\cpuscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\cpuschedulingwinforms\\cpuscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\cpuscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\cpuschedulingwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\cpuschedulingwinforms\\cpuscheduler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\cpuscheduler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\cpuschedulingwinforms\\modifyprogressbarcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6954F540-2148-4D2F-879A-BE82576B1083}|CpuSchedulingWinForms\\CpuSchedulingWinForms.csproj|solutionrelative:cpuschedulingwinforms\\modifyprogressbarcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Algorithms.cs",
+              "DocumentMoniker": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\Algorithms.cs",
+              "RelativeDocumentMoniker": "CpuSchedulingWinForms\\Algorithms.cs",
+              "ToolTip": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\Algorithms.cs",
+              "RelativeToolTip": "CpuSchedulingWinForms\\Algorithms.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAlwPMBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:54:45.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CpuScheduler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\CpuScheduler.Designer.cs",
+              "RelativeDocumentMoniker": "CpuSchedulingWinForms\\CpuScheduler.Designer.cs",
+              "ToolTip": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\CpuScheduler.Designer.cs",
+              "RelativeToolTip": "CpuSchedulingWinForms\\CpuScheduler.Designer.cs",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAowOcBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:54:44.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CpuScheduler.resx",
+              "DocumentMoniker": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\CpuScheduler.resx",
+              "RelativeDocumentMoniker": "CpuSchedulingWinForms\\CpuScheduler.resx",
+              "ToolTip": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\CpuScheduler.resx",
+              "RelativeToolTip": "CpuSchedulingWinForms\\CpuScheduler.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-15T21:54:45.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CpuScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\CpuScheduler.cs",
+              "RelativeDocumentMoniker": "CpuSchedulingWinForms\\CpuScheduler.cs",
+              "ToolTip": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\CpuScheduler.cs",
+              "RelativeToolTip": "CpuSchedulingWinForms\\CpuScheduler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:54:45.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "CpuSchedulingWinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\Program.cs",
+              "RelativeToolTip": "CpuSchedulingWinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:54:45.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CpuScheduler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\CpuScheduler.cs",
+              "RelativeDocumentMoniker": "CpuSchedulingWinForms\\CpuScheduler.cs",
+              "ToolTip": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\CpuScheduler.cs [Design]",
+              "RelativeToolTip": "CpuSchedulingWinForms\\CpuScheduler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:54:45.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModifyProgressBarColor.cs",
+              "DocumentMoniker": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\ModifyProgressBarColor.cs",
+              "RelativeDocumentMoniker": "CpuSchedulingWinForms\\ModifyProgressBarColor.cs",
+              "ToolTip": "C:\\Users\\Billy\\source\\repos\\l0rdiummm\\CPU-Simulator-GUI\\CpuSchedulingWinForms\\ModifyProgressBarColor.cs",
+              "RelativeToolTip": "CpuSchedulingWinForms\\ModifyProgressBarColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:54:45.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
